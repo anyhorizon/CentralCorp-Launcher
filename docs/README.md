@@ -120,3 +120,5 @@ Toutes les informations nécessaires pour configurer et utiliser le launcher.
 ![Image 2](https://centralcorp.github.io/img/image2.png)  
 ![Image 3](https://centralcorp.github.io/img/image3.png)  
 ![Image 4](https://centralcorp.github.io/img/image4.png) 
+
+Lancement Edengard
