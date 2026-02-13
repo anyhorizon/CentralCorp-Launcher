@@ -1,7 +1,7 @@
 {
     "name": "edengard-launcher",
     "preductname": "Edengard",
-    "version": "4.0.0",
+    "version": "4.0.1",
     "description": "Launcher officiel du serveur Edengard",
     "main": "src/app.js",
     "author": "Riptiaz/Boulldogo/Vexato/Luuxis",
@@ -38,6 +38,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/anyhorizon/CentralCorp-Launcher.git"
     }
 }
