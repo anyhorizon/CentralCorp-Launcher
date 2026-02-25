@@ -41,4 +41,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Edengard-Setup
-          path: dist/*.exe
+          path: |
+            dist/*.exe
+            dist/latest.yml
